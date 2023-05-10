@@ -150,11 +150,7 @@ img {
     .why-us .col-right{
         width: 340px;
     }
-    .why-us .container h2{
-        width: 378px;
-    }
-
-}
+    
 
  @media screen and (min-width:768px) {
     .container{
@@ -165,4 +161,8 @@ img {
         justify-content: center;
     }
 }
-
+@media screen and (min-width:980px) {
+    .container{
+        width: 950px;
+    }
+}
